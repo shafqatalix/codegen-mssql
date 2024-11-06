@@ -1,0 +1,5 @@
+
+virtualenv>=20.27
+wheel>=0.44
+setuptools>=75.3
+twine>=5.1
