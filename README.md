@@ -17,9 +17,9 @@ codegen-mssql parms:
 ## Supported Targets
 
 - [x] C# (default)
-- [] Typescript
-- [] Java
-- [] Rust
+- [ ] Typescript
+- [ ] Java
+- [ ] Rust
 
 ## Refs:
 
