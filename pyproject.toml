@@ -1,0 +1,18 @@
+[project]
+name = "codegen-mssql_shafqatalix"
+version = "0.0.1"
+authors = [
+  { name="Shafqat", email="broxtontee@gmail.com" },
+]
+description = "Codegen for SQL Server databse objects"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU GENERAL PUBLIC LICENSE",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/shafqatalix/codegen-mssql"
+Issues = "https://github.com/shafqatalix/codegen-mssql/issues"

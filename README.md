@@ -21,6 +21,10 @@ codegen-mssql parms:
 - [ ] Java
 - [ ] Rust
 
+## Publish
+
+- python3 setup.py sdist bdist_wheel
+
 ## Refs:
 
 https://medium.com/nerd-for-tech/how-to-build-and-distribute-a-cli-tool-with-python-537ae41d9d78
