@@ -14,6 +14,8 @@ codegen-mssql parms:
 | -c    | --connectionstring | Database connection string    |
 | -t    | --target           | Target output , default is C# |
 
+python3 setup.py develop
+
 ## Supported Targets
 
 - [x] C# (default)
